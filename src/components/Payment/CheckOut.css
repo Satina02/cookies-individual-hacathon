@@ -1,0 +1,20 @@
+.one-input{
+    width: 90%;
+    height: 49px;
+    border: 1px solid gray;
+}
+
+.payment-inputs{
+    margin-left: 50px;
+}
+
+.two-input{
+    width: 100%;
+    border: 1px solid gray;
+    height: 49px;
+}
+
+.check-out{
+    background-color: #65c1be;
+    color: white;
+}

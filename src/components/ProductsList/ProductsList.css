@@ -1,0 +1,10 @@
+.products-search {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.productlist-container{
+    background-color: #65c1be;
+}

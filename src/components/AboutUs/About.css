@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+
+
+.aboutus-first{
+    padding: 60px 60px 130px 60px;
+}
+
+.about-us{
+    background-color: #65c1be;
+}
+
+.aboutus-second{
+    text-align: center;
+    padding: 40px 60px 30px 60px;
+    color: white;
+    font-family: 'Cormorant', serif;
+}
+
+.aboutUs-story{
+    font-size: 80px;
+    font-weight: 700;
+    margin-top: -30px;
+}
+.aboutus-second-inner{
+    display: flex;
+    text-align: start;
+}
+
+.aboutus-third-inner{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+@media screen and (max-width: 425px){
+    .aboutus-first{
+        padding: 10px;
+    }
+    .aboutus-second{
+        padding: 10px;
+    }
+    .aboutUs-story{
+        font-size: 40px;
+        margin-top: -10px;
+    }
+    .aboutus-second-inner{
+        display: flex;
+        flex-direction: column;
+    }
+    .aboutus-third-inner{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .aboutus-first{
+        padding: 10px;
+    }
+    .aboutus-second{
+        padding: 10px;
+    }
+    .aboutUs-story{
+        font-size: 40px;
+        margin-top: -10px;
+    }
+    .aboutus-second-inner{
+        display: flex;
+        flex-direction: column;
+    }
+    .aboutus-third-inner{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .aboutus-first{
+        padding: 10px;
+    }
+    .aboutus-second{
+        padding: 10px;
+    }
+    .aboutUs-story{
+        font-size: 40px;
+        margin-top: -10px;
+    }
+    .aboutus-second-inner{
+        display: flex;
+        flex-direction: column;
+    }
+    .aboutus-third-inner{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+}
+

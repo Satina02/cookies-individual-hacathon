@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+
+.flavors{
+    background-color: #65c1be;
+}
+
+.flavors-first{
+    padding: 50px 90px 50px 90px;
+}
+
+.flavors-second{
+    padding: 50px 90px 50px 90px;
+}
+
+.all-flavors-first{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.flavors-title{
+    color:white;
+    font-family: 'Cormorant', serif;
+    font-size: 22px;
+}
+
+.flavors-main-title{
+    color:white;
+    font-family: 'Cormorant', serif;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.flavor-img{
+    width: 250px;
+    height: 160px;
+}
+
+@media screen and (max-width: 320px){
+    .flavors-second{
+        padding: 10px;
+    }
+    .all-flavors-first{
+        display: flex;
+        flex-direction: column;
+    }
+    .flavors-first{
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .flavors-second{
+        padding: 10px;
+    }
+    .all-flavors-first{
+        display: flex;
+        flex-direction: column;
+    }
+    .flavors-first{
+        padding: 10px;
+    }
+    .flavor-img{
+        width: 320px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 425px){
+    .flavors-second{
+        padding: 10px;
+    }
+    .all-flavors-first{
+        display: flex;
+        flex-direction: column;
+    }
+    .flavors-first{
+        padding: 10px;
+    }
+    .flavor-img{
+        width: 320px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .flavors-second{
+        padding: 40px;
+    }
+    .all-flavors-first{
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .flavors-first{
+        padding: 10px;
+    }
+    .flavor-img{
+        width: 320px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    .flavors-second{
+        padding: 40px;
+    }
+    .all-flavors-first{
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .flavors-first{
+        padding: 80px;
+    }
+    .flavor-img{
+        width: 180px;
+        height: 120px;
+    }
+}
