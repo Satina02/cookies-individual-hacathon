@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom';
 const CheckOut = () => {
     return (
         <div className='check-out' style={{width:"100%"}}>
-           <section style={{width:"50%", marginLeft:"75px", paddingBottom:"50px"}}>
+           <section className='check-out-inner' >
                <div style={{fontSize:"20px"}}>1. THE BASICS</div>
                <div className='payment-inputs'>
                    <div style={{marginTop:"15px"}}>

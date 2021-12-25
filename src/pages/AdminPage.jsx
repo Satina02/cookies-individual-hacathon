@@ -9,20 +9,8 @@ import AdminProductsList from "../components/AdminProductsList/AdminProductsList
 const AdminPage = () => {
   return (
     <div className="container" style={{ marginTop: "15px" }}>
-      <Row>
-        <Col span={12}>
-          <Col span={22}>
-            {/* <AddBrandModal /> */}
-            {/* <AdminBrandsList /> */}
-          </Col>
-        </Col>
-        <Col span={12}>
-          <Col span={22}>
             <AddProductModal />
             <AdminProductsList />
-          </Col>
-        </Col>
-      </Row>
     </div>
   );
 };
