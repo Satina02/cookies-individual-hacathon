@@ -121,7 +121,7 @@ const Header = () => {
               <Link to="/wish">
               <img style={{width:"35px", marginLeft:"25px"}} src="https://cdn1.iconfinder.com/data/icons/creativity-and-design-hexagone/128/16-256.png" alt="" />
               </Link>
-              <Link to="/watch-history">
+              <Link to="/review">
               <img style={{width:"35px", marginLeft:"25px"}} src="https://cdn0.iconfinder.com/data/icons/luchesa/128/eye-256.png" alt="" />
               </Link>
         </div>

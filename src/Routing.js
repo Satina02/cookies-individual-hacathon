@@ -5,6 +5,7 @@ import AboutUs from "./components/AboutUs/AboutUs";
 import Auth from "./components/Auth/Auth";
 import BrandsList from "./components/BrandsList/BrandsList";
 import Cart from "./components/Cart/Cart";
+import Comments from "./components/Comments/Comments";
 import Contacts from "./components/Contacts/Contacts";
 import DetailsProduct from "./components/DetailsProduct/DetailsProduct";
 import EditProduct from "./components/EditProduct/EditProduct";
@@ -78,8 +79,8 @@ const Routing = () => {
       element: <Payment/>
     },
     {
-      link: "/watch-history",
-      element: <Watch/>
+      link: "/review",
+      element: <Comments/>
     }
   ];
   const ADMIN_ROUTES = [

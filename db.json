@@ -45,16 +45,14 @@
   ],
   "comments": [
     {
-      "name": "Jane Snow",
-      "image": "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/5-Manager-256.png",
-      "id": 1,
-      "comment": "We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently."
+      "comment": "So good",
+      "email": "talaibekova_s@iuca.kg",
+      "id": 2
     },
     {
-      "name": "Jake Snake",
-      "image": "https://cdn2.iconfinder.com/data/icons/avatars-60/5985/12-Delivery_Man-256.png",
-      "id": 2,
-      "comment": "We supply a series of design principles, practical patterns and high quality design resources (Sketch and Axure), to help people create their product prototypes beautifully and efficiently."
+      "comment": "Ice-creams are so tasty",
+      "email": "talaibekova_s@iuca.kg",
+      "id": 3
     }
   ]
 }
