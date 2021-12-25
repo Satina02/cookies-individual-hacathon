@@ -17,7 +17,7 @@ const Wishlist = () => {
             <section style={{marginBottom:"50px"}}>
                 <div style={{marginLeft:"50px"}}>
                     <h1 className="shopping-cart" style={{fontSize:"42px", fontWeight:"700", marginLeft:"50px", 
-                            borderBottom:"1px gray solid", width:"1000px"}}> 
+                             width:"1000px"}}> 
                         My favorite
                     </h1>
                 </div>
