@@ -23,22 +23,17 @@ const DetailsProduct = () => {
     <div className="detail-container">
       { product? (
         <>
-          <div
-            style={{
-              display: "flex",
-              justifyContent: "space-between",
-              alignItems: "center",
-              marginBottom: "20px",
-            }}
+          <div 
+          className="detail-list"
           >
-            <div style={{ width: "35vw" }}>
+            <div className="detail-list-left" style={{ width: "35vw" }}>
                 <div>
                   <img width="100%" src={product.image1} alt="" />
                 </div>
                 <div>
                 </div>
             </div>
-            <div style={{ width: "40vw" }}>
+            <div className="detail-list-right" style={{ width: "40vw" }}>
               <h2 style={{color:"white"}}>{product.brand}</h2>
               <h2 style={{color:"white"}}>{"$" + product.price}</h2>
               <Rate />

@@ -36,18 +36,11 @@
       "id": 5
     },
     {
-      "brand": "Mocha caramel",
+      "brand": "Mocha ",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "price": 7.99,
       "image1": "https://bridge294.qodeinteractive.com/wp-content/uploads/2019/12/shop-image-1-600x600.jpg",
       "id": 6
-    },
-    {
-      "brand": "Nutella chocolate",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "price": 7.99,
-      "image1": "https://bridge294.qodeinteractive.com/wp-content/uploads/2019/12/shop-image-2-600x600.jpg",
-      "id": 7
     }
   ],
   "comments": [

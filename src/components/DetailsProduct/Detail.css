@@ -2,3 +2,10 @@
     background-color: #65c1be;
     padding: 70px 70px 70px 70px;
 }
+
+.detail-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
